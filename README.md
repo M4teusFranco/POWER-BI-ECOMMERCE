@@ -37,4 +37,4 @@ Este projeto reflete não apenas o domínio técnico da ferramenta Power BI e do
 
 ## ✒️ Autores
 
-* **Mateus Franco Bezerra** - *Business Intelligence (BI)* - POWERBI-CONTROLE-ECOMMERCE
+* **Mateus Franco Bezerra** - *Business Intelligence (BI)* - POWER-BI-ECOMMERCE
