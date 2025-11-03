@@ -13,12 +13,12 @@ Através de dashboards dinâmicos e visuais intuitivos, o relatório possibilita
 
 #### Funcionalidades principais
 
-Através de filtros e gráficos, é possível:
-✅ Acompanhar métricas-chave de performance
-✅ Visualizar tendências em gráficos dinâmicos e segmentações interativas
-✅ Filtrar resultados por períodos, categorias e regiões
-✅ Comparar desempenhos e identificar oportunidades de melhoria
-✅ Obter insights em tempo real por meio da integração de dados automatizada
+Através de filtros e gráficos, é possível:<br>
+✅ Acompanhar métricas-chave de performance<br>
+✅ Visualizar tendências em gráficos dinâmicos e segmentações interativas<br>
+✅ Filtrar resultados por períodos, categorias e regiões<br>
+✅ Comparar desempenhos e identificar oportunidades de melhoria<br>
+✅ Obter insights em tempo real por meio da integração de dados automatizada<br>
 
 Este projeto foi desenvolvido e publicado dentro do Microsoft Fabric, aproveitando o ecossistema integrado para modelagem, visualização e compartilhamento de relatórios.
 
