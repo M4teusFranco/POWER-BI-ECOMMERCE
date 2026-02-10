@@ -22,8 +22,6 @@ Através de filtros e gráficos, é possível:<br>
 
 Este projeto foi desenvolvido e publicado dentro do Microsoft Fabric, aproveitando o ecossistema integrado para modelagem, visualização e compartilhamento de relatórios.
 
-🔗 Acesse o projeto completo pelo link: https://app.fabric.microsoft.com/view?r=eyJrIjoiODRjMmM3MjYtNjQxMC00YjczLTk4OGItZWU3MGNlNDQ4MGJmIiwidCI6IjU5ZDRmMjQ5LTA1MjAtNDZjZi1iNmIyLTg3M2Q1ZGE1NDNmZSJ9
-
 #### Ferramentas utilizadas
 
 - Power BI Desktop
