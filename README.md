@@ -1,4 +1,4 @@
-# Dashboard para E-commerce
+#  📊 Dashboard para E-commerce
 
 <img width="1211" height="629" alt="image" src="https://github.com/user-attachments/assets/a149de61-d283-4e26-b23b-d150e98d593b" /><br><br><br>
 <img width="1219" height="625" alt="image" src="https://github.com/user-attachments/assets/7f22389e-0ce7-407d-be9f-8d9bc222d94f" /><br><br><br>
