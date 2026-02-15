@@ -11,7 +11,7 @@ Projeto desenvolvido simulando um controle em Dashboard num formato de negócio 
 
 Através de dashboards dinâmicos e visuais intuitivos, o relatório possibilita uma interpretação ágil dos dados, auxiliando a tomada de decisões estratégicas com base em informações atualizadas.
 
-#### Funcionalidades principais
+#### ⚙️ Funcionalidades principais
 
 Através de filtros e gráficos, é possível:<br>
 ✅ Acompanhar métricas-chave de performance<br>
@@ -22,7 +22,7 @@ Através de filtros e gráficos, é possível:<br>
 
 Este projeto foi desenvolvido e publicado dentro do Microsoft Fabric, aproveitando o ecossistema integrado para modelagem, visualização e compartilhamento de relatórios.
 
-#### Ferramentas utilizadas
+#### 🛠️ Ferramentas utilizadas
 
 - Power BI Desktop
 - Base de Dados (ex: Excel, CSV, SQL)
